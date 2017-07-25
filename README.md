@@ -1,2 +1,2 @@
 # TestGitHub
-This is test Git Hub Repo
+This is test Git Hub Repo for testing.
